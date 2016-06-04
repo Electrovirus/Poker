@@ -1,11 +1,11 @@
-~~This is Simple README 
+A simple edit on superflux source by @Electrovirus
 
-~~ Source Superflux For Supergroups 
+About superflux:
+A telegram bot based on lua
+Developed by mustafaflux
 
-+~~Developer By : @Mustafaflux On Telegram ,
 
-To install on C9 your next steps
-
+✭How to install
 
 
 #Step1 : writ this > in Terminal 
@@ -23,12 +23,12 @@ libjansson-dev libpython-dev expat libexpat1-dev
 
 #step3 : writ >
 
-git clone https://github.com/mustafaflux/superflux-bot.git
+git clone https://github.com/Electrovirus/superflux.git
 
 
 #step4 : Writ >
 
-cd superflux-bot
+cd superflux
 
 
 
@@ -54,15 +54,3 @@ Then ask You Number To put him Bot
 
 ----------------------------
 
-For the inauguration #SourceSuperflux 
-
-
-
-️#one_Commnd_in_New_terimnal 💠
-
-
-
-sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get install 
-libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev 
-libpython-dev expat libexpat1-dev -y && cd $HOME && rm -rf superflux-bot && rm -rf .telegram-cli && git clone https://github.com/mustafaflux/superflux-bot.git && cd superflux-bot && ./launch.sh install && ./launch.sh
-~~~~~
