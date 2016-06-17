@@ -41,8 +41,8 @@ local function run(msg, matches)
 💭/demote : by <reply|id|username> 
 
 
-🌐Unix V.1🌐
-➖🔸➖🔹➖🔸➖🔹➖]]
+😐Poker V.1😐
+➖😐➖😐➖😐➖😐➖]]
     return text
   end
   if is_channel_msg(msg) then
@@ -88,8 +88,8 @@ local function run(msg, matches)
 💭/demote : by <reply|id|username> 
 
 
-🌐Unix V.1🌐
-➖🔸➖🔹➖🔸➖🔹➖]]
+😐Poker V.1😐
+➖😐➖😐➖😐➖😐➖]]
     return text
   else
     local text = [[aaa]]
