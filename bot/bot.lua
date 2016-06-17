@@ -213,10 +213,10 @@ function create_config( )
     enabled_plugins = {
       "help",
       "id",
-      "plugins"
-      "groupcontrol"
-      "membercontrol"
-      "invite"
+      "plugins",
+      "groupcontrol",
+      "membercontrol",
+      "invite",
       "moderation",
       },
     sudo_users = {184018132},
