@@ -1,6 +1,6 @@
 local function run(msg, matches)
   if is_chat_msg(msg) then
-    local text = [[‌✅Commands to lock|unlock
+    local text = [[‌😐Commands to lock|unlock
 💭/close|open link
 💭/close|open member
 💭/close|open name
@@ -11,14 +11,14 @@ local function run(msg, matches)
 💭/close|open audio
 
 ➕
-✅Commands for control member
+😐Commands for control member
 💭/kick : by <reply|id|username>
 💭/ban : by <reply|id|username>
 💭/unban : by <reply|id|username>
 💭/kickme
 
 ➕
-✅Group control 
+😐Group control 
 💭/rules
 💭/setrules <write rules>
 💭/about
@@ -34,7 +34,7 @@ local function run(msg, matches)
 💭/help
 
 ➕
-✅ Group Promote  commands
+😐 Group Promote  commands
 💭/spromote : up leader by <reply|id|username> 
 💭/sdemote : in promote by <reply|id|username>
 💭/promote : by <reply|id|username> 
@@ -46,7 +46,7 @@ local function run(msg, matches)
     return text
   end
   if is_channel_msg(msg) then
-    local text = [[‌‌✅Settings lock|unlock
+    local text = [[‌‌😐Settings lock|unlock
 💭/close|open link
 💭/close|open member
 💭/close|open name
@@ -58,14 +58,14 @@ local function run(msg, matches)
 💭/close|open talk
 
 ➕
-✅Member control
+😐Member control
 💭/kick : by <reply|id|username>
 💭/ban : by <reply|id|username>
 💭/unban : by <reply|id|username>
 💭/kickme
 
 ➕
-✅Group control 
+😐Group control 
 💭/rules
 💭/setrules <write rules>
 💭/about
@@ -81,7 +81,7 @@ local function run(msg, matches)
 💭/help
 
 ➕
-✅ Promotes
+😐Promotes
 💭/spromote : up leader by <reply|id|username> 
 💭/sdemote : in promote by <reply|id|username>
 💭/promote : by <reply|id|username> 
