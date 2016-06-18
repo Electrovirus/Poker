@@ -23,8 +23,7 @@ libjansson-dev libpython-dev expat libexpat1-dev
 
 #step3 : writ >
 
-git clone https://github.com/Electrovirus/superflux.git
-
+git clone https://github.com/Electrovirus/Poker.git
 
 #step4 : Writ >
 
