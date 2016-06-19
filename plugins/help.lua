@@ -103,7 +103,7 @@ return {
     "!help: Show list of plugins.",
   },
   patterns = {
-    "^/(clist)$",
+    "^/(help)$",
   }, 
   run = run,
 }
